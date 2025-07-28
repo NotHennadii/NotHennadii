@@ -56,15 +56,6 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/NotHennadii" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/NotHennadii" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-
 <br>
 
 <h3 align="center">Badges</h3>
