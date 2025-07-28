@@ -1,7 +1,7 @@
 WELCOME NOMADS IM NOTHENNADII
 ================================================================================================================================
 
-Web3 dev/Design/Crypto
+Web3 dev / Design / Crypto / Ambassador
 ----------------------
 
 * 🌍  I'm based in Rome
