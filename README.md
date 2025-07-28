@@ -64,6 +64,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NotHennadii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
+
 <h3 align="center">Badges</h3>
 
 <div align="center">
