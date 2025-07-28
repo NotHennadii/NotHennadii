@@ -59,8 +59,16 @@
 </div>
 
 <br>
+<div align="center">
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NotHennadii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 <h3 align="center">Badges</h3>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h4 align="center">My GitHub Stats</h4>
 
